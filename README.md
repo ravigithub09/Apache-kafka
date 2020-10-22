@@ -89,7 +89,7 @@ https://www.apache.org/dyn/closer.cgi?path=/kafka/2.6.0/kafka_2.13-2.6.0.tgz
 
 ## Kafka commands:
 
- To start zookeeper: .\bin\windoes/zookeeper-server--start.bat .\config\zookeeper.properties
+ To start zookeeper: .\bin\windows/zookeeper-server-start.bat .\config\zookeeper.properties
 
 To start kafka: .\bin\windows\kafka-server-start.bat .\config\server.properties
 
